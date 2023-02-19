@@ -1,0 +1,34 @@
+{
+ "Diameter_Header": 
+{
+    "Version": 1,
+    "MessageLength": 92,
+    "CommandFlags": 128,
+    "CommandCode": 275,
+    "ApplicationID": 16777216,
+    "HopByHopID": 10,
+    "EndToEndID": 20
+},
+ "Attribute-Value_Pairs": [
+{
+    "Code": 483,
+    "Flags": 64,
+    "Length": 12,
+    "VendorID": 0,
+    "Data": "AAAiuA=="
+},
+{
+    "Code": 258,
+    "Flags": 128,
+    "Length": 16,
+    "VendorID": 10415,
+    "Data": "AAAD5w=="
+},
+{
+    "Code": 269,
+    "Flags": 0,
+    "Length": 42,
+    "VendorID": 0,
+    "Data": "Tm9raWEgMTI4MCBDaMOgbyBDw6FjIELhuqFuIDEyMzQ1Ng=="
+},
+]}
